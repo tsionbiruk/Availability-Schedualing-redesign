@@ -1,0 +1,2 @@
+total_tour_instances,assigned_tour_instances,unassigned_tour_instances,assignment_rate_percent,number_of_guides,average_tours_per_guide,min_tours_per_guide,max_tours_per_guide,guides_with_zero_tours
+1116,1116,0,100.0,120,9.3,6,15,0
