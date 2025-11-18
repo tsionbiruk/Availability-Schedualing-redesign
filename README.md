@@ -3,7 +3,7 @@
 This project documents a redesign of availability and scheduling workflows for Care Diem Tours. The aim is to simulate different scheduling strategies, evaluate their performance, and generate output data to inform decision-making. The repository includes simulation code, test strategies, and output data.
 
 **Repository Structure**
--** Scheduling/:** Contains the core simulation scripts, functions and modules for modelling availability and scheduling.
+- **Scheduling/:** Contains the core simulation scripts, functions and modules for modelling availability and scheduling.
 
 - **Strategy_test/:** Contains test cases, scenario definitions, and scripts to compare different scheduling strategies.
 
